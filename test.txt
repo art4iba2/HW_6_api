@@ -1,1 +1,17 @@
-messagecodcountlist
+messagecodcountlist{'message': 'accurate', 'cod': '200', 'count': 3, 
+list': [{'id': 499068, 'name': 'Samarskaya Oblast’', 'coord': {'lat': 53, 'lon': 50}, 
+'main': {'temp': 6, 'feels_like': 2.76, 'temp_min': 6, 'temp_max': 6, 'pressure': 1017, 
+'humidity': 92, 'sea_level': 1017, 'grnd_level': 1008}, 'dt': 1762535352, 
+'wind': {'speed': 4.64, 'deg': 271}, 'sys': {'country': 'RU'}, 
+'rain': None, 'snow': None, 'clouds': {'all': 100}, 
+'weather': [{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]}, 
+{'id': 499099, 'name': 'Samara', 'coord': {'lat': 53.2, 'lon': 50.15}, 
+'main': {'temp': 6.27, 'feels_like': 3.71, 'temp_min': 6.27, 'temp_max': 6.27, 'pressure': 1017, 
+'humidity': 91, 'sea_level': 1017, 'grnd_level': 1007}, 'dt': 1762535345, 'wind': {'speed': 3.5, 'deg': 268}, 
+'sys': {'country': 'RU'}, 'rain': None, 'snow': None, 'clouds': {'all': 100}, 
+'weather': [{'id': 804, 'main': 'Clouds', 'description': 'overcast clouds', 'icon': '04n'}]}, 
+{'id': 3621990, 'name': 'Sámara', 'coord': {'lat': 9.8824, 'lon': -85.5266},
+ 'main': {'temp': 29.73, 'feels_like': 35.09, 'temp_min': 29.73, 'temp_max': 29.73, 'pressure': 1012, 'humidity': 73, 
+ 'sea_level': 1012, 'grnd_level': 998}, 'dt': 1762532215, 'wind': {'speed': 2.39, 'deg': 158}, 
+ 'sys': {'country': 'CR'}, 'rain': None, 'snow': None, 'clouds': {'all': 39}, 
+ 'weather': [{'id': 802, 'main': 'Clouds', 'description': 'scattered clouds', 'icon': '03d'}]}]}
